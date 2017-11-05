@@ -1,0 +1,8 @@
+Scanning dependencies of target cppremoteapi
+[ 16%] Building CXX object CMakeFiles/cppremoteapi.dir/main.cpp.o
+[ 33%] Building C object CMakeFiles/cppremoteapi.dir/remoteApi/extApi.c.o
+[ 50%] Building C object CMakeFiles/cppremoteapi.dir/remoteApi/extApiPlatform.c.o
+[ 66%] Building CXX object CMakeFiles/cppremoteapi.dir/Vdc/Vdc.cpp.o
+[ 83%] Building CXX object CMakeFiles/cppremoteapi.dir/Toninho/ToninhoVrep.cpp.o
+[100%] Linking CXX executable cppremoteapi
+[100%] Built target cppremoteapi
