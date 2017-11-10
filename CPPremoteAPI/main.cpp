@@ -33,10 +33,10 @@ int main(int argc, char **argv)
   string serverIP = "127.0.0.1";
   int serverPort = 19999;
   
-  Toninho* ura;
-  ura = new ToninhoVrep(serverIP.c_str(), serverPort);
+  Toninho* toninho;
+  toninho = new ToninhoVrep(serverIP.c_str(), serverPort);
   
-  ura->seguirLinha();
+  toninho->seguirLinha();
   
   
   
